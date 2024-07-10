@@ -23,3 +23,7 @@ Press following button, you can use MATLAB Online and run the codes on this gits
 - 無料のMATLAB Online(basic)については以下のリンク先をご参照ください．
 
 https://jp.mathworks.com/products/matlab-online/matlab-online-versions.html
+
+MATLABの図をカスタマイズしたい（軸のフォントをLaTeXフォントに変える，線の太さを変える，凡例の位置を変えたいなど）場合は，"graph_format.m"というファイルを参考にしてください．
+![untitled](https://github.com/KazuyaSato1968/First_Course_Modern_Control_Eng_MATLAB/assets/12887702/589c459d-f247-4722-8fed-b1abfd8c2632)
+このような図が描けます．
